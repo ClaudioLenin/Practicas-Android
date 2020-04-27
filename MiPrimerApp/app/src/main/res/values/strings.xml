@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="txt_num1">Número 1</string>
+    <string name="txt_num2">Número 2</string>
+    <string name="button">Sumar</string>
+</resources>
