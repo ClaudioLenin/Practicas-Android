@@ -12,6 +12,15 @@ Editado por el usuario Claudio
 		<div>
 			<h2>
 			</h2>
+		<div class="encabezado">
+			<div class="cuerpo">
+				<p></p>
+			</div>
+		</div>
+		<div>
+			<div>
+				<p></p>
+			</div>
 		</div>
 	</head>
 	<body>
