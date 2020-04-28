@@ -1,2 +1,18 @@
 Hola mundo
 Editado por el usuario Claudio
+<html>
+	<head>
+		<div class="encabezado">
+			<div class="cuerpo">
+				<p></p>
+			</div>
+		</div>
+		<div>
+			<div>
+				<p></p>
+			</div>
+		</div>
+	</head>
+	<body>
+	</body>
+</html>
