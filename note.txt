@@ -2,6 +2,9 @@ Hola mundo
 Editado por el usuario Claudio
 <html>
 	<head>
+		<meta>
+		<meta>
+		<meta>
 		<div>
 			<h1>
 			</h1>
