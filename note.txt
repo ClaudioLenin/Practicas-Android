@@ -1,2 +1,12 @@
 Hola mundo
 Editado por el usuario Claudio
+<html>
+	<head>
+		<h1>
+		</h1>
+		<h2>
+		</h2>
+	</head>
+	<body>
+	</body>
+</html>
